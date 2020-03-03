@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    http = ">= 1.1.0"
+    http = ">= 1.1.1"
   }
 }
 
